@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvrocess",
+        "uuid": 1760850,
+        "checksum": "tervbxh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
